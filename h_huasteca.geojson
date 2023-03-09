@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "h_huasteca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6369" } },
+"features": [
+{ "type": "Feature", "properties": { "OID_": 0, "Name": "Hospital Regional de la Huasteca", "FolderPath": "Hospital Regional de la Huasteca.kmz", "SymbolID": 0, "AltMode": -1, "Base": 0.0, "Snippet": null, "PopupInfo": null, "HasLabel": -1, "LabelID": 0, "long": -98.4952, "lat": 21.0662 }, "geometry": { "type": "Point", "coordinates": [ 559807.583366497303359, 2333829.980072331614792, 0.0 ] } }
+]
+}
